@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Nag</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Codewars:</h3>
